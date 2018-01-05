@@ -2,5 +2,4 @@ This is the File1.
 Added Line 2.
 Added Line 3.
 Added Line 4.
-Adding to Stage(Index)
 
